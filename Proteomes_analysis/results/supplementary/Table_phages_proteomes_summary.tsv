@@ -1,0 +1,4 @@
+Phages group	Proteomes number	Filtered proteomes number	Total sequence number in filtered proteomes	Percentage of sequences of min. 150 aa length among	Total number of sequences in panproteome	Median sequence length in panproteome
+Bacillus	149	133	18659	40.33	5158	256.0
+Escherichia	263	245	22931	44.41	5316	260.5
+Mycobacterium	527	527	53012	36.93	7332	271.0
