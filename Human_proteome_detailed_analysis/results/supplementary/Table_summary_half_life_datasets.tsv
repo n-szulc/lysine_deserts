@@ -1,0 +1,9 @@
+Cell type	Number of proteins	Number of proteins mapped to the reference human proteme	Number of proteins used in the analysis
+Bcells	4653	4411	3885
+NK cells	3555	3388	3005
+Hepatocytes	4242	4018	3342
+Monocytes	4649	4435	3886
+U2OS	1428	1239	1140
+HEK293T	1434	1223	1124
+HCT116	1904	1640	1520
+RPE1	1652	1408	1278
