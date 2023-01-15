@@ -1,0 +1,11 @@
+MSA ID	All gene symbols	Reference organism gene symbols	Lysine desert type	Avg lysine desert conservation	Lysine deserts no	Fraction of sequences completely lysine devoid 	Median sequence length	Median lysine desert length	Ratio of median lysine desert to median sequence length	Lysine desert start index	Lysine desert end index	Number of sequences	Ratio of number of sequences to number of taxons	COG	Lysine cluster anywhere fraction	Lysine cluster at N-end fraction	Lysine cluster at C-end fraction	Avg no of lysines	Avg lysines fraction	Avg no of arginines	Avg arginines fraction	Glycine no	Proline no	Alanine no	Valine no	Leucine no	Isoleucine no	Methionine no	Cysteine no	Phenylalanine no	Tyrosine no	Tryptophan no	Histidine no	Lysine no	Arginine no	Glutamine no	Asparagine no	Glutamic acid no	Aspartic acid no	Serine no	Threonine no	Other no	Total no
+3RY16_1	tif6	tif6	Aligned	1.0	1.0	1.0	245.0	152.0	0.62	94.0	245.0	15	1.0	J	0.0	0.0	0.0	1.93	0.79	13.0	5.32	182.0	75.0	137.0	279.0	269.0	156.0	14.0	45.0	30.0	59.0	0.0	34.0	0.0	104.0	128.0	110.0	168.0	147.0	195.0	142.0	0.0	2274.0
+3RYJU_1	rad23	rad23	Anywhere			1.0	392.0	292.0	0.74			15	1.0	L	1.0	0.8	0.0	15.67	3.98	12.73	3.23																						
+3RYXI_1	slx5	slx5	Anywhere			0.86	607.5	396.5	0.65			14	1.0	K	0.07	0.0	0.0	20.71	3.41	58.14	9.63																						
+3RZAV_1	dsk2	dsk2	Anywhere			1.0	373.0	297.0	0.8			15	1.0	L	1.0	1.0	0.0	8.33	2.23	13.07	3.48																						
+3S10Q_1	hlj1	hlj1	Anywhere			0.6	229.0	139.0	0.61			15	1.0	O	0.4	0.0	0.0	12.47	5.44	17.67	7.71																						
+3S11Y_1			Anywhere			0.78	191.0	135.5	0.71			18	1.2	S	0.0	0.0	0.0	14.39	7.55	13.67	7.09																						
+3S16B_1	san1	san1	Anywhere			0.6	661.0	390.0	0.59			15	1.0	O	0.93	0.0	0.0	10.53	1.6	39.33	5.97																						
+3S17Q_1	mix17	mix17	Anywhere			0.8	154.0	133.5	0.87			15	1.0	S	0.27	0.0	0.2	2.2	1.42	9.0	5.86																						
+3S1DM_1	tir3	tir3	Anywhere			0.85	244.0	198.0	0.81			13	1.3	O	0.38	0.15	0.0	4.0	1.68	2.38	0.99																						
+3S1IF_1	cue1	cue1	Anywhere			0.6	198.0	120.0	0.61			15	1.0	U	0.13	0.0	0.13	10.47	5.28	14.87	7.52																						

@@ -1,0 +1,6 @@
+Eukaryotic family/order	Number of all MSA files	Number of filtered MSA files	Percentage of filtered MSA files	Median of median lenghts of all MSA files	Median of median lenghts of filtered MSA files
+Saccharomycetaceae	5524	3654	66.15	415.25	447.0
+Rhabditida	18187	9123	50.16	337.0	398.0
+Drosophilidae	13686	8638	63.12	404.0	463.0
+Rodentia	21313	12714	59.65	414.0	483.0
+Hominidae	20461	13988	68.36	407.0	478.0
