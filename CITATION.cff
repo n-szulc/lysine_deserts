@@ -1,0 +1,69 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Data accompanying the manuscript "Lysine-deficient
+  proteome can be regulated through non-canonical
+  ubiquitination and ubiquitin-independent proteasomal
+  degradation"
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Natalia A.
+    family-names: Szulc
+    email: nszulc@iimcb.gov.pl
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0000-0002-2991-3634'
+  - given-names: Małgorzata
+    family-names: Piechota
+    email: mpiechota@iimcb.gov.pl
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0000-0001-7511-8626'
+  - given-names: Pankaj
+    family-names: Thapa
+    email: pthapa@iimcb.gov.pl
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0000-0001-5536-1768'
+  - given-names: Wojciech
+    family-names: Pokrzywa
+    email: wpokrzywa@iimcb.gov.pl
+    affiliation: >-
+      Laboratory of Protein Metabolism, International
+      Institute of Molecular and Cell Biology in Warsaw,
+      Warsaw, Poland
+    orcid: 'https://orcid.org/0000-0002-5110-4462'
+identifiers:
+  - type: doi
+    value: 
+    description: Zenodo repository
+  - type: url
+    value: 'https://github.com/n-szulc/lysine_deserts'
+    description: GitHub repository
+repository-code: 'https://github.com/n-szulc/lysine_deserts'
+url: 'https://github.com/n-szulc/lysine_deserts'
+abstract: >-
+  This repository contains codes and auxiliary data to
+  article "Lysine-deficient proteome can be regulated
+  through non-canonical ubiquitination and
+  ubiquitin-independent proteasomal degradation" by Szulc et
+  al., 2023.
+keywords:
+  - ubiquitin
+  - ubiquitin-proteasome system
+  - lysine desert
+  - protein turnover
+  - E3
+  - non-canonical ubiquitination
+license: CC-BY-4.0
