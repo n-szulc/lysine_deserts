@@ -20,7 +20,7 @@ authors:
       Institute of Molecular and Cell Biology in Warsaw,
       Warsaw, Poland
     orcid: 'https://orcid.org/0000-0002-2991-3634'
-  - given-names: Małgorzata
+  - given-names: Malgorzata
     family-names: Piechota
     email: mpiechota@iimcb.gov.pl
     affiliation: >-
@@ -46,7 +46,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-5110-4462'
 identifiers:
   - type: doi
-    value: 
+    value: 10.5281/zenodo.7545560
     description: Zenodo repository
   - type: url
     value: 'https://github.com/n-szulc/lysine_deserts'
@@ -64,6 +64,6 @@ keywords:
   - ubiquitin-proteasome system
   - lysine desert
   - protein turnover
-  - E3
+  - E3 ligase
   - non-canonical ubiquitination
 license: CC-BY-4.0
