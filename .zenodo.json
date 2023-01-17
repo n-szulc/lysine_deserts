@@ -5,9 +5,9 @@
   "upload_type": "other",
   "publication_date": "2022-01-17",
   "language": "eng",
-  "description": "Codes and auxiliary data to article "Lysine-deficient proteome can be regulated through non-canonical ubiquitination and ubiquitin-independent proteasomal degradation" by Szulc et al., 2023.",
+  "description": "Codes and auxiliary data to article Lysine-deficient proteome can be regulated through non-canonical ubiquitination and ubiquitin-independent proteasomal degradation by Szulc et al., 2023.",
   "notes": "This research was supported by the National Science Centre, Poland (grant PRELUDIUM number 2021/41/N/NZ1/03473 to Natalia Szulc and grant SONATA-BIS number 2021/42/E/NZ1/00190 to Wojciech Pokrzywa).",
-  "keywords": ["ubiquitin", "ubiquitin-proteasome system", "lysine desert", "protein turnover", "E3", "non-canonical ubiquitination"],
+  "keywords": ["ubiquitin", "ubiquitin-proteasome system", "lysine desert", "protein turnover", "E3 ligase", "non-canonical ubiquitination"],
   "creators": [
     {
       "affiliation": "Laboratory of Protein Metabolism, International Institute of Molecular and Cell Biology in Warsaw, Warsaw, Poland",
