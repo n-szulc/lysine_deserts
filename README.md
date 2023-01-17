@@ -8,7 +8,23 @@ state and is being actively
 developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
----
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Overview](#overview)
+- [What is a lysine desert and why is it important?](#what-is-a-lysine-desert-and-why-is-it-important)
+- [Installation](#installation)
+	- [Conda environment](#conda-environment)
+- [About the repository](#about-the-repository)
+	- [Architecture](#architecture)
+	- [Order of computational analyses](#order-of-computational-analyses)
+	- [Supplementary tables](#supplementary-tables)
+	- [Experimental data](#experimental-data)
+- [Feedback, issues, and questions](#feedback-issues-and-questions)
+- [How to cite](#how-to-cite)
+- [License](#license)
+- [Funding](#funding)
+
+<!-- /TOC -->
 
 
 # Overview
@@ -85,4 +101,4 @@ This repository is licensed under the [CC BY 4.0](https://creativecommons.org/li
 
 # Funding
 
-This research was supported by the National Science Centre, Poland (grant PRELUDIUM number 2021/41/N/NZ1/03473 to N.A.S. and grant SONATA-BIS number 2021/42/E/NZ1/00190 to W.P.).
+This research was supported by the National Science Centre, Poland (grant PRELUDIUM number 2021/41/N/NZ1/03473 to Natalia A. Szulc and grant SONATA-BIS number 2021/42/E/NZ1/00190 to Wojciech Pokrzywa).
