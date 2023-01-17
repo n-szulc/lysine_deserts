@@ -39,13 +39,13 @@ Recommended usage of the jupyter notebooks deposited in this repository is in a 
 
 # Repository architecture
 
-There are four main directories with codes required for performing analyses described in Szulc et al., 2013, namely `Proteomes_analysis`, `OGs_analysis`, `Human_proteome_detailed_analysis`, and `Structral_lysine_deserts_search`.
+There are four main directories with codes required for performing analyses described in Szulc et al., 2013, namely `Proteomes_analysis`, `OGs_analysis`, `Human_proteome_detailed_analysis`, and `Structral_lysine_deserts_search`. The `Experimental_data` directory contain raw luminescence and fluorescence measurements from cycloheximide chase and NanoBRET ubiquitination assays ().
 
 Each of the abovementioned directories contains two jupyter notebooks: `Download_data.ipynb` and `Pipeline.ipynb`. `Download_data.ipynb` is required to run prior `Pipeline.ipynb` as it allows to download data for the analyses.
 
 All the notebooks are extensively documented with all the analyses' steps described.
 
-## Order of analyses
+## Order of computational analyses
 
 Codes from `Proteomes_analysis` and `OGs_analysis` may be run independently from other analyses.
 
