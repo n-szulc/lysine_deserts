@@ -1,7 +1,8 @@
 <img src="readme_pics/lysine_deserts_definition.png" width="900" class="center" />
 
 
-Lysine desert search
+Data accompanying the manuscript "Lysine-deficient proteome can be regulated through non-canonical ubiquitination and ubiquitin-independent proteasomal degradation"
+
 ===================
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-360/)
