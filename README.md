@@ -69,12 +69,12 @@ All the notebooks are extensively documented with all the analyses' steps descri
 
 Codes from `Proteomes_analysis` and `OGs_analysis` may be run independently from other analyses.
 
-The order for performing analyses from `Human_proteome_detailed_analysis` and `Structral_lysine_deserts_search` is as follows:
+The order for performing analyses from `Human_proteome_detailed_analysis` and `Structural_lysine_deserts_search` is as follows:
 1. `Proteomes_analysis/Download_data.ipynb`
-2. `Structral_lysine_deserts_search/Download_data.ipynb`
+2. `Structural_lysine_deserts_search/Download_data.ipynb`
 3. `Human_proteome_detailed_analysis/Download_data`
 4. `Human_proteome_detailed_analysis/Pipeline.ipynb`
-5. `Structral_lysine_deserts_search/Pipeline.ipynb`
+5. `Structural_lysine_deserts_search/Pipeline.ipynb`
 
 ## Supplementary tables
 
