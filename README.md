@@ -6,7 +6,7 @@
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
 developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
-
+[![DOI](https://zenodo.org/badge/589324896.svg)](https://zenodo.org/badge/latestdoi/589324896)
 
 [![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
