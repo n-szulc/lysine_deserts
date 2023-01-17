@@ -6,6 +6,8 @@
 [![Project Status: Active - The project has reached a stable, usable
 state and is being actively
 developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+
+
 [![License: CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
@@ -92,7 +94,9 @@ If you used codes or datasets from this repository, please cite:
 
 **Lysine-deficient proteome can be regulated through non-canonical ubiquitination and ubiquitin-independent proteasomal degradation**  
 Natalia A. Szulc, Małgorzata Piechota, Pankaj Thapa, Wojciech Pokrzywa
-bioRxiv
+
+<i>bioRxiv</i>
+
 doi:
 
 # License
