@@ -97,7 +97,7 @@ Natalia A. Szulc, Małgorzata Piechota, Pankaj Thapa, Wojciech Pokrzywa
 
 <i>bioRxiv</i>
 
-doi:
+doi: [10.1101/2023.01.18.524605](https://doi.org/10.1101/2023.01.18.524605)
 
 # License
 
