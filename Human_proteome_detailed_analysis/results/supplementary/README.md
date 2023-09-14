@@ -9,8 +9,8 @@ It contains the following information:
 |**Cell type**| Cell type|
 |**Number of proteins**| Number of proteins in the initial half-life dataset for a given cell type|
 |**Number of proteins mapped to the reference human proteme**| Number of proteins after mapping the half-life dataset on the reference human proteome|
-|**Number of proteins used in the analysis**|Number of proteins, excluding sequences <150 aa, with the predicted number of TMH >2, and with outlier half-life values (from 0.01 and 0.99 quantile), which were used in analyzing correlation between length of a lysine-less region and half life|
-
+|**Number of proteins used in the analysis (whole dataset)**|Number of proteins, excluding sequences <150 aa, with the predicted number of TMH >2, and with outlier half-life values (from 0.01 and 0.99 quantile), which were used in analyzing correlation between length of a lysine-less region and half life|
+|**Number of proteins used in the analysis (10% shortest living proteins only)**|Number of proteins, excluding sequences <150 aa, with the predicted number of TMH >2, and with half-life values equal or below 0.1 quantile, which were used in analyzing correlation between length of a lysine-less region and half life|
 ---
 
 Table `Table_summary_lysine_deserts_in_E3s.tsv` contains information about the number of E3 ligases with a given lysine desert while taking into account the type of E3 ligase.
