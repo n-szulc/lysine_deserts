@@ -1,4 +1,4 @@
-# Data accompanying the manuscript "Lysine-deficient proteome can be regulated through non-canonical ubiquitination and ubiquitin-independent proteasomal degradation"
+# Data accompanying the manuscript [Lysine deserts and cullin-RING ligase receptors: Navigating untrodden paths in proteostasis](https://www.cell.com/iscience/pdf/S2589-0042(23)02421-5.pdf)
 
 <img src="readme_pics/lysine_deserts_definition.png" width="900" class="center" />
 
@@ -92,12 +92,12 @@ We welcome any feedback, please send an email to Natalia Szulc ![](https://img.s
 
 If you used codes or datasets from this repository, please cite:
 
-**Lysine-deficient proteome can be regulated through non-canonical ubiquitination and ubiquitin-independent proteasomal degradation**  
-Natalia A. Szulc, Małgorzata Piechota, Pankaj Thapa, Wojciech Pokrzywa
+**Lysine deserts and cullin-RING ligase receptors: Navigating untrodden paths in proteostasis**  
+Natalia A. Szulc, Małgorzata Piechota, Lilla Biriczová, Pankaj Thapa, Wojciech Pokrzywa
 
-<i>bioRxiv</i>
+<i>iScience</i>
 
-doi: [10.1101/2023.01.18.524605](https://doi.org/10.1101/2023.01.18.524605)
+doi: [10.1016/j.isci.2023.108344](https://doi.org/10.1016/j.isci.2023.108344)
 
 # License
 
